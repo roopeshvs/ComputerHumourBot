@@ -36,6 +36,7 @@ Note that Token and Client Secret are not the same.
 
 Create a file called token.config and enter the follwing,
 > [DISCORD]
+
 > TOKEN = "Paste Your Bot Token Here. Without Quotes."
 
 ## Installing Dependencies
