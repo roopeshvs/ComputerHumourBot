@@ -54,6 +54,7 @@ The Bot should be online in your Discord Server Now.
 ## Bot Commands
 
 `{}help` - List of Commands.
+
 `{}quote` - A Random One-Liner from quotes.txt
 
 ## Bot Events

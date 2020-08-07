@@ -2,4 +2,4 @@
 /QuoteBot
 
 # Config Files
-.config
+*.config
