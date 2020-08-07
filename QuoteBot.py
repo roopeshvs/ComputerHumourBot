@@ -30,6 +30,10 @@ async def help(ctx):
     embed.add_field(name='{}quote', value='Get inspired by a powerful quote', inline=False)
     await ctx.send(embed=embed)
 
+@client.command()
+async def add(ctx, a:int, b:int):
+    await ctx.send(a+b)
+
 #Reacts <3 to any message
 @client.event
 async def on_message(ctx):

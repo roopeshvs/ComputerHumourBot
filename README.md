@@ -57,6 +57,8 @@ The Bot should be online in your Discord Server Now.
 
 `{}quote` - A Random One-Liner from quotes.txt
 
+`{}add` - Add two numbers
+
 ## Bot Events
 
 - Greets New Users
