@@ -34,6 +34,10 @@ async def help(ctx):
 async def add(ctx, a:int, b:int):
     await ctx.send(a+b)
 
+@client.command()
+async def sub(ctx, a:int, b:int):
+    await ctx.send(a-b)
+
 #Reacts <3 to any message
 @client.event
 async def on_message(ctx):
