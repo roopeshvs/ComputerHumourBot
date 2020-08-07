@@ -3,3 +3,6 @@
 
 # Config Files
 token.config
+
+# Test Files
+*.pyc
