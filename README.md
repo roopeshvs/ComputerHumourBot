@@ -59,6 +59,8 @@ The Bot should be online in your Discord Server Now.
 
 `{}add` - Add two numbers
 
+`{}sub` - Subtract two numbers
+
 ## Bot Events
 
 - Greets New Users
